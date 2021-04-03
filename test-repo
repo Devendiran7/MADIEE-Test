@@ -1,0 +1,56 @@
+1.What is linux? Explain 5 linux commands?
+          linux is an operating system(OS).an operating system is the software that directly manages a system's hardware and resources,like
+CPU,memory and storage.linux is reliable,open source and secure Operating system.
+ Commands
+        Pwd - To know which directory you are in.
+        cd - use the 'cd' command to go to a directory.
+        rm - 'rm' command used to Delete files and directories.
+        cp - use the 'cp' command to copy files through the command line.
+        mv - 'mv' command used for move files through the command line.
+
+2.Define linux kernel?
+        The linux kernel is a free and open-source kernel. linux kernel is the main component of a linux operating system and is the core interface 
+between a computer's hardware and its processes.kernel does the memory management,process management, device drivers and system security.
+
+3.what is the differents between 32-bit and 64-bit computers?
+        A 64-bit system can access a lot of multi-tasking.user can easily switch between various applications without any windows hanging problems.
+32-bit system can address a maximumnof 4GB of RAM,but 64-bit supports 2TP of RAM .
+
+4. What is git and what version is installed on your Linux machine?
+Hint: h)ps://git-scm.com/book/en/v2/Ge8ng-Started-First-Time-Git-Setup 
+
+5.what is low level language and high level language?
+        High level languages are easy to leran and understand. low level language are challenging to learn. high level language are executed slower then 
+low level lanuages.but low level execute high speed.high level programs easy to modify.modifying is defficult in low level language.
+high level languages are: perl,php,BASIC,Ruby
+low level languages are: machine language and assembly language.
+
+6.Define an object in the context of obeject oriented programming? give a example.
+        Object oriented language is based on the idea of an object.An object is an entity with some data and operations.
+              
+              function Person(name) {
+                    this.name = name;
+                    this.greeting = function() {
+                       alert('Hi! I\'m ' + this.name + '.');
+                       };
+                      }
+        
+    
+7.Write a pythone code using class and a dictionary?
+        
+        class Bird():
+    
+    def __init__(self):
+        print("Bird is ready")
+
+    def whoisThis(self):
+        print("Bird")
+
+    def swim(self):
+        print("Swim faster")
+        
+        peggy= bird()
+        peggy.whoisThis()
+        peggy.swim()
+        
+          
